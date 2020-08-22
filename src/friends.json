@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1, 
+        "name": "Hank Hill",
+        "image": "https://vignette.wikia.nocookie.net/kingofthehill/images/c/c4/Hank_Hill.png/revision/latest/top-crop/width/360/height/450?cb=20140504043948",
+        "occupation": "Assistant Manager of Strickland Propane",
+        "location": "123 Rainey St, Arlen TX"
+    },
+    {
+        "id": 2, 
+        "name": "Peggy Hill",
+        "image": "https://i.ibb.co/mhSrkDv/Peggy-hill.jpg",
+        "occupation": "Substitute Spanish Teacher",
+        "location": "123 Rainey St, Arlen TX"
+    },
+    {
+        "id": 3, 
+        "name": "Dale Gribble", 
+        "image": "https://i.ibb.co/KhT8s20/Dale-gribble.jpg",
+        "occupation": "Exterminator",
+        "location": "Rainey St, Arlen TX"
+    },
+    {
+        "id": 4, 
+        "name": "Boomhauer",
+        "image": "https://i.ibb.co/D7VZ2MD/Boomhauer.png",
+        "occupation": "Womanizer",
+        "location": "Rainey St, Arlen TX"
+    },
+    {
+        "id": 5,
+        "name": "Bill Dauterive",
+        "image": "https://i.ibb.co/C7LHVj4/Bill-Dauterive.png",
+        "occupation": "Army Barber",
+        "location": "Rainey St, Arlen TX"
+    },
+    {
+        "id": 6, 
+        "name": "Nancy Gribble",
+        "image": "https://i.ibb.co/zsbqQvs/Nancy-gribble.jpg",
+        "occupation": "Weather Reporter",
+        "location": "Rainey St, Arlen TX"
+    },
+    {
+        "id": 7,
+        "name": "Minh Soupinusenphon",
+        "image": "https://i.ibb.co/QjNsNML/Minh-Souphanousinphone.jpg",
+        "occupation": "Housewife",
+        "location": "Rainey St, Arlen TX"
+    }, 
+    {
+        "id": 8, 
+        "name": "Kahn Soupinusenphon", 
+        "image": "https://i.ibb.co/D5jdGY6/kahn.jpg", 
+        "occupation": "Data Systems Analyst",
+        "location": "Rainey St, Arlen TX"
+    }, 
+    {
+        "id": 9, 
+        "name": "Bobby Hill", 
+        "image": "https://i.ibb.co/JQYfVFX/Bobby-hill.jpg",
+        "occupation": "Student", 
+        "location": "123 Rainey St, Arlen TX"
+    }, 
+    {
+        "id": 10, 
+        "name": "Luanne Platter", 
+        "image": "https://i.ibb.co/8XNyLkd/luanne.jpg",
+        "occupation": "Hairdresser", 
+        "location":"Rainey St, Arlen TX"
+    }, 
+    {
+        "id": 11, 
+        "name": "Lucky Kleinschmidt", 
+        "image": "https://i.ibb.co/s299sZG/Lucky.jpg", 
+        "occupation": "Slipped on peepee at the Costco for a $53,000 settlement",
+        "location": "Rainey St, Arlen TX"
+    }, 
+    {
+        "id": 12, 
+        "name": "John Redcorn", 
+        "image": "https://i.ibb.co/dBcZdj5/john-redcorn.jpg", 
+        "occupation": "New Age Healer", 
+        "location": "Arlen, TX"
+    }, 
+    {
+        "id": 13, 
+        "name": "Joseph Gribble", 
+        "image": "https://i.ibb.co/hf0n6NN/joseph-gribble.jpg", 
+        "occupation": "Student",
+        "location": "Rainey St, Arlen TX"
+    }, 
+    {
+        "id": 14, 
+        "name": "Connie Soupinusenphon", 
+        "image": "https://i.ibb.co/0BctyfQ/connie.jpg", 
+        "occupation": "Student",
+        "location": "Rainey St, Arlen TX"
+    }, 
+    {
+        "id": 15, 
+        "name": "Buck Strickland", 
+        "image": "https://i.ibb.co/rMpngcD/Strickland.png", 
+        "occupation": "Owner of Strickland Propane", 
+        "location": "Arlen, TX"
+    }, 
+    {
+        "id": 16, 
+        "name": "Joe Jack", 
+        "image": "https://i.ibb.co/ZV6VMjV/Joejack.webp", 
+        "occupation": "Associate at Strickland Propane", 
+        "location": "Arlen, TX"
+    }, 
+    {
+        "id": 17, 
+        "name": "Enrique", 
+        "image": "https://i.ibb.co/6Fbd9hP/Enrique.jpg", 
+        "occupation": "Associate at Strickland Propane", 
+        "location": "Arlen, TX"
+    }, 
+    {
+        "id": 18, 
+        "name": "Principal Moss", 
+        "image": "https://i.ibb.co/wgzQ14g/Carl-moss.jpg", 
+        "occupation": "Principal at Tom Landry Middle School", 
+        "location":"Arlen, TX"
+    }, 
+    {
+        "id": 19, 
+        "name": "Stuart Dooley", 
+        "image": "https://i.ibb.co/xXvGHx9/Stuart-Dooley.jpg", 
+        "occupation": "Student", 
+        "location": "Arlen, TX"
+    }, 
+    {
+        "id": 20, 
+        "name": "Clark Peters", 
+        "image": "https://i.ibb.co/7t6xrfB/clark-peters.jpg", 
+        "occupation": "Student", 
+        "location": "Arlen, TX"
+    }
+]
